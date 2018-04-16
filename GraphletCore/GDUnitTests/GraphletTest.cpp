@@ -15,7 +15,7 @@ namespace GraphletTest
 		{
 			// TODO: Your test code here
 
-			Assert::IsTrue(graphlet::GraphletCore::testcheck());
+			Assert::IsTrue(graphlet::GraphletCore::unittestcheck());
 
 		}
 

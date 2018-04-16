@@ -12,6 +12,7 @@
 #include <fstream>
 #include <sstream>
 #include <stdint.h>
+#include <GraphLib\ngraph.hpp>
 
 using namespace std;	//Use if needed
 
